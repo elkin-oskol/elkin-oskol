@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/elkin-oskol/-_-/main/icon-192.png" alt="Робот проекта «Приключения робокота Соника»" width="88" height="88">
+<img src="https://raw.githubusercontent.com/elkin-oskol/-_-/main/icon-192.png" alt="Робокот проекта «Приключения робокота Соника»" width="88" height="88">
 
 # Ёлкин/О́скол
 
@@ -39,6 +39,14 @@
 **[Отзывы, ошибки и идеи →](https://github.com/elkin-oskol/-_-/issues)**
 
 Если тестируете вместе с ребёнком, указывайте только возраст и впечатления от игры — без имени, фото и других личных данных.
+
+## English
+
+I'm Roman, a survival instructor and the initiator of **Ёлкин/О́скол** projects. I develop educational games with ChatGPT/Codex and test them on Android.
+
+**Sonic the Robocat Adventures** is a free Russian-language 2D game for children aged 6–9: five worlds, 15 activities, touch and keyboard controls, and offline play after the initial load. No account or ads. Feedback on controls, accessibility and task clarity is welcome.
+
+[Play the game](https://elkin-oskol.github.io/-_-/) · [Project and feedback](https://github.com/elkin-oskol/-_-)
 
 ## Публикации о проекте
 
