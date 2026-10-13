@@ -1,16 +1,49 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**elkin-oskol/elkin-oskol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/elkin-oskol/-_-/main/icon-192.png" alt="Робот проекта «Приключения Соника»" width="88" height="88">
 
-Here are some ideas to get you started:
+# Ёлкин/О́скол
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Роман · инструктор по выживанию · инициатор цифровых проектов**
+
+Создаю полезные проекты для детей и развиваю их с помощью ChatGPT/Codex.  
+Мне интересны природа, практические навыки, инструменты и технологии.
+
+[Играть в «Приключения Соника»](https://elkin-oskol.github.io/-_-/) · [Посмотреть проект](https://github.com/elkin-oskol/-_-)
+
+</div>
+
+---
+
+## Главный проект — «Приключения Соника»
+
+Обучающее 2D-приключение для детей **6–9 лет**. Оригинальный бирюзовый робот исследует пять миров и решает **15 заданий** о файлах, командах, тексте, цифровой безопасности и рисовании.
+
+- Работает на телефоне и компьютере.
+- Без регистрации и рекламы.
+- После первой загрузки и подтверждения готовности офлайн-копии можно играть без интернета.
+- Прогресс и рисунок сохраняются на устройстве.
+
+Игра сейчас на русском языке. Соник — оригинальный робот проекта, не связанный с Sonic the Hedgehog или SEGA.
+
+**[▶ Открыть игру](https://elkin-oskol.github.io/-_-/)** · **[▷ Видео с телефона](https://elkin-oskol.github.io/-_-/#demo)**
+
+## Как я работаю
+
+Определяю идею и направление проекта, проверяю игру на Android и развиваю её по отзывам. ChatGPT/Codex помогает с реализацией, исправлениями и документацией. Участие ИИ открыто указано в материалах проекта.
+
+## Чем можно помочь
+
+Попробуйте один мир и расскажите, удобно ли управление и понятны ли задания. Замечания разработчиков о доступности, управлении и работе офлайн тоже пригодятся.
+
+**[Отзывы, ошибки и идеи →](https://github.com/elkin-oskol/-_-/issues)**
+
+Если тестируете вместе с ребёнком, указывайте только возраст и впечатления от игры — без имени, фото и других личных данных.
+
+## Публикации о проекте
+
+[Пикабу](https://pikabu.ru/story/kak_myi_sdelali_obuchayushchuyu_igru_dlya_detey_s_pomoshchyu_chatgpt_14421114) · [X](https://x.com/RomanEklmn/status/2110060476201865600) · [Reddit](https://www.reddit.com/r/aigamedev/comments/1x53icv/building_a_russianlanguage_educational_platformer/)
+
+---
+
+Идея разработки и инициатор проекта — **Ёлкин/О́скол**. Условия использования материалов игры — в [LICENSE](https://github.com/elkin-oskol/-_-/blob/main/LICENSE).
