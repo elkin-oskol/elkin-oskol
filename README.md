@@ -1,57 +1,47 @@
-<div align="center">
+# Привет, я Ёлкин/О́скол 👋
 
-<img src="https://raw.githubusercontent.com/elkin-oskol/-_-/main/icon-192.png" alt="Робокот проекта «Приключения робокота Соника»" width="88" height="88">
+Я строю полезные web-продукты, которые решают реальные задачи и понятны людям без технического бэкграунда.
 
-# Ёлкин/О́скол
+## Что я делаю
+- Разрабатываю образовательные и игровые веб-продукты
+- Делал браузерную игру для детей 6–9 лет
+- Фокусируюсь на UX, доступности и понятных интерфейсах
+- Работаю с HTML, JavaScript, PWA, GitHub Pages и продуктовой идеей
 
-**Роман · инструктор по выживанию · инициатор цифровых проектов**
+## Основной проект
+### 🚀 Приключения робокота Соника
+Образовательная 2D-игра для детей 6–9 лет с 5 мирами, 15 заданиями, цифровой грамотностью и офлайн-режимом после первой загрузки.
 
-Создаю полезные проекты для детей и развиваю их с помощью ChatGPT/Codex.  
-Мне интересны природа, практические навыки, инструменты и технологии.
+- Сайт: https://elkin-oskol.github.io/-_-/
+- Репозиторий: https://github.com/elkin-oskol/-_-
+- Обратная связь: https://github.com/elkin-oskol/-_-/issues
 
-[Играть в «Приключения робокота Соника»](https://elkin-oskol.github.io/-_-/) · [Скачать APK для Android](https://github.com/elkin-oskol/-_-/releases/download/v2.1.0/sonic-robocat-2.1.0.apk) · [Посмотреть проект](https://github.com/elkin-oskol/-_-)
+## Технологии
+- HTML
+- JavaScript
+- CSS
+- PWA / офлайн-работа
+- GitHub Pages
+- UX / game design / educational product design
 
-</div>
+## Интересы
+- Веб-разработка
+- Образовательные технологии
+- Игры и интерактивные продукты
+- Продуктовый подход
+- UX для детей и семей
 
----
+## Ключевые принципы
+- Простота и понятность
+- Пользовательский опыт важнее красивого кода
+- Полезный продукт лучше “идеального” прототипа
+- Разработка через реальные сценарии использования
 
-## Главный проект — «Приключения робокота Соника»
+## Публичные проекты
+- [Приключения робокота Соника](https://github.com/elkin-oskol/-_-)
 
-Обучающее 2D-приключение для детей **6–9 лет**. Оригинальный бирюзовый робокот исследует пять миров и решает **15 заданий** о файлах, командах, тексте, цифровой безопасности и рисовании.
+## Контакты
+- GitHub: https://github.com/elkin-oskol
+- Issues / feedback: https://github.com/elkin-oskol/-_-/issues
 
-- Работает на телефоне и компьютере.
-- Без регистрации и рекламы.
-- После первой загрузки и подтверждения готовности офлайн-копии можно играть без интернета.
-- Прогресс и рисунок сохраняются на устройстве.
-
-Игра сейчас на русском языке. Соник — оригинальный робокот проекта, не связанный с Sonic the Hedgehog или SEGA.
-
-**[▶ Открыть игру](https://elkin-oskol.github.io/-_-/)** · **[▷ Видео с телефона](https://elkin-oskol.github.io/-_-/#demo)**
-
-## Как я работаю
-
-Определяю идею и направление проекта, проверяю игру на Android и развиваю её по отзывам. ChatGPT/Codex помогает с реализацией, исправлениями и документацией. Участие ИИ открыто указано в материалах проекта.
-
-## Чем можно помочь
-
-Попробуйте один мир и расскажите, удобно ли управление и понятны ли задания. Замечания разработчиков о доступности, управлении и работе офлайн тоже пригодятся.
-
-**[Отзывы, ошибки и идеи →](https://github.com/elkin-oskol/-_-/issues)**
-
-Если тестируете вместе с ребёнком, указывайте только возраст и впечатления от игры — без имени, фото и других личных данных.
-
-## English
-
-I'm Roman, a survival instructor and the initiator of **Ёлкин/О́скол** projects. I develop educational games with ChatGPT/Codex and test them on Android.
-
-**Sonic the Robocat Adventures** is a free Russian-language 2D game for children aged 6–9: five worlds, 15 activities, touch and keyboard controls, and offline play after the initial load. No account or ads. Feedback on controls, accessibility and task clarity is welcome.
-
-[Play the game](https://elkin-oskol.github.io/-_-/) · [Project and feedback](https://github.com/elkin-oskol/-_-)
-
-## Публикации о проекте
-
-[Пикабу](https://pikabu.ru/story/kak_myi_sdelali_obuchayushchuyu_igru_dlya_detey_s_pomoshchyu_chatgpt_14421114) · [X](https://x.com/RomanEklmn/status/2110060476201865600) · [Reddit](https://www.reddit.com/r/aigamedev/comments/1x53icv/building_a_russianlanguage_educational_platformer/)
-
----
-
-Идея разработки и инициатор проекта — **Ёлкин/О́скол**. Условия использования материалов игры — в [LICENSE](https://github.com/elkin-oskol/-_-/blob/main/LICENSE).
+> Здесь я делаю проекты, которые можно открыть, понять и использовать сразу.
