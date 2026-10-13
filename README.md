@@ -12,7 +12,7 @@
 
 Обучающая 2D-игра для детей **6–9 лет**: пять миров и 15 заданий о файлах, командах, тексте, цифровой безопасности и рисовании. Без регистрации и рекламы. После загрузки работает офлайн.
 
-**[▶ Играть](https://elkin-oskol.github.io/-_-/)** · [Android APK](https://github.com/elkin-oskol/-_-/releases/tag/v2.1.0) · [Код](https://github.com/elkin-oskol/-_-) · [Видео · 32 секунды](https://elkin-oskol.github.io/-_-/media/game-demo.mp4)
+**[▶ Играть](https://elkin-oskol.github.io/-_-/)** · [Android APK](https://github.com/elkin-oskol/-_-/releases/tag/v2.2.0) · [Код](https://github.com/elkin-oskol/-_-) · [Видео · 32 секунды](https://elkin-oskol.github.io/-_-/media/game-demo.mp4)
 
 <p>
   <img src="https://raw.githubusercontent.com/elkin-oskol/-_-/main/media/world-map.jpg" width="180" alt="Карта пяти миров">
@@ -20,11 +20,11 @@
   <img src="https://raw.githubusercontent.com/elkin-oskol/-_-/main/media/learning-task.jpg" width="180" alt="Обучающее задание: составить маршрут">
 </p>
 
-*Актуальная версия 2.1.0. Скриншоты и видео записаны в браузере с мобильным размером экрана.*
+*Актуальная версия 2.2.0. Скриншоты и видео записаны в браузере с мобильным размером экрана.*
 
 ## Над чем работаю
 
-- Улучшаю управление и понятность интерфейса игры.
+- Проверяю обновлённое оформление и эффекты на разных телефонах.
 - Собираю отзывы о сложности заданий для детей 6–9 лет.
 - Развиваю навыки веб-разработки и создания интерактивных продуктов.
 
