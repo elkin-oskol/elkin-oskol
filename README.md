@@ -9,7 +9,7 @@
 Создаю полезные проекты для детей и развиваю их с помощью ChatGPT/Codex.  
 Мне интересны природа, практические навыки, инструменты и технологии.
 
-[Играть в «Приключения робокота Соника»](https://elkin-oskol.github.io/-_-/) · [Посмотреть проект](https://github.com/elkin-oskol/-_-)
+[Играть в «Приключения робокота Соника»](https://elkin-oskol.github.io/-_-/) · [Скачать APK для Android](https://github.com/elkin-oskol/-_-/releases/download/v2.1.0/sonic-robocat-2.1.0.apk) · [Посмотреть проект](https://github.com/elkin-oskol/-_-)
 
 </div>
 
