@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+<title id="title">Ёлкин/О́скол — игры, которые учат</title><desc id="desc">Фирменная обложка автора обучающей игры «Приключения робокота Соника».</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#102e42"/><stop offset="1" stop-color="#245d68"/></linearGradient></defs>
+<rect width="1200" height="400" rx="32" fill="url(#bg)"/><circle cx="1100" cy="80" r="230" fill="#72efd0" opacity=".06"/>
+<path d="M30 320H1170" stroke="#72efd0" stroke-opacity=".2"/><text x="66" y="90" font-family="Arial,sans-serif" font-size="19" letter-spacing="4" fill="#72efd0">АВТОРСКИЕ ЦИФРОВЫЕ ПРОЕКТЫ</text>
+<text x="62" y="177" font-family="Arial,sans-serif" font-size="66" font-weight="700" fill="#f5faf7">Ёлкин/О́скол</text>
+<text x="66" y="231" font-family="Arial,sans-serif" font-size="27" fill="#cee0e7">Игры, которые учат. Можно ошибаться.</text>
+<text x="66" y="285" font-family="Arial,sans-serif" font-size="20" fill="#72efd0">РОБОКОТ СОНИК · 5 МИРОВ · 15 ЗАДАНИЙ</text>
+<g transform="translate(925 158)"><path d="M-78-32-70-98-28-59H28L70-98 78-32V65Q0 111-78 65Z" fill="#72efd0"/><rect x="-63" y="-27" width="126" height="76" rx="24" fill="#103847"/><circle cx="-29" cy="6" r="11" fill="#ffce67"/><circle cx="29" cy="6" r="11" fill="#ffce67"/><path d="M-16 29Q0 44 16 29" stroke="#72efd0" stroke-width="5" fill="none"/><path d="M-65 90V143H65V90" stroke="#72efd0" stroke-width="17" fill="none"/></g>
+<text x="66" y="360" font-family="Arial,sans-serif" font-size="18" fill="#b4cbd3">Идея и инициатор — Роман · Реализация с помощью ChatGPT/Codex</text></svg>

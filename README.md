@@ -1,33 +1,52 @@
-# Привет, я Ёлкин/О́скол 👋
+<div align="center">
 
-Я Роман, инструктор по выживанию. Создаю полезные веб-продукты и обучающие игры с помощью ChatGPT/Codex.
+![Ёлкин/О́скол — игры, которые учат](assets/brand-banner.svg)
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=github&logoColor=white)
+# Привет, я Роман — Ёлкин/О́скол 👋
 
-## 🐱 Приключения робокота Соника
+Создаю полезные цифровые проекты и обучающие игры с помощью ChatGPT/Codex.
 
-Обучающая 2D-игра для детей **6–9 лет**: пять миров и 15 заданий о файлах, командах, тексте, цифровой безопасности и рисовании. Без регистрации и рекламы. После загрузки работает офлайн.
+**[▶ Играть](https://elkin-oskol.github.io/-_-/) · [📱 Скачать Android](https://github.com/elkin-oskol/-_-/releases/latest) · [💬 Оставить отзыв](https://github.com/elkin-oskol/-_-/issues/new/choose)**
 
-**[▶ Играть](https://elkin-oskol.github.io/-_-/)** · [Android APK](https://github.com/elkin-oskol/-_-/releases/tag/v2.2.1) · [Код](https://github.com/elkin-oskol/-_-) · [Видео · 32 секунды](https://elkin-oskol.github.io/-_-/media/game-demo.mp4)
+</div>
+
+## Приключения робокота Соника
+
+Обучающая 2D-игра для детей **6–9 лет**. Пять миров и 15 заданий: файлы, команды, текст, цифровая безопасность и рисование. Без регистрации и рекламы. После первой загрузки работает офлайн; APK содержит игру внутри.
 
 <p>
-  <img src="https://raw.githubusercontent.com/elkin-oskol/-_-/main/media/world-map.jpg" width="180" alt="Карта пяти миров">
-  <img src="https://raw.githubusercontent.com/elkin-oskol/-_-/main/media/platform-level.jpg" width="180" alt="Робокот Соник и управление на мобильном экране">
-  <img src="https://raw.githubusercontent.com/elkin-oskol/-_-/main/media/learning-task.jpg" width="180" alt="Обучающее задание: составить маршрут">
+  <img src="https://raw.githubusercontent.com/elkin-oskol/-_-/main/media/world-map.jpg" width="240" alt="Карта пяти миров">
+  <img src="https://raw.githubusercontent.com/elkin-oskol/-_-/main/media/platform-level.jpg" width="240" alt="Платформенный уровень и управление">
+  <img src="https://raw.githubusercontent.com/elkin-oskol/-_-/main/media/learning-task.jpg" width="240" alt="Задание на составление маршрута">
 </p>
 
-*Демонстрация версии 2.2.0; в 2.2.1 обновлён интерфейс на телефоне. Скриншоты и видео записаны в браузере с мобильным размером экрана.*
+Скриншоты и [короткое видео](https://elkin-oskol.github.io/-_-/media/game-demo.mp4) обновлены для **3.0.1**. Это браузерная запись с мобильными размерами экрана, не съёмка установленного APK.
 
-## Над чем работаю
+## Для родителей
 
-- Проверяю обновлённое оформление и эффекты на разных телефонах.
-- Собираю отзывы о сложности заданий для детей 6–9 лет.
-- Развиваю навыки веб-разработки и создания интерактивных продуктов.
+Начните с одного мира и помогайте ребёнку читать условия. Можно ошибаться и пользоваться подсказками. На телефоне движение — слева, прыжок и задание — справа; задание открывается рядом с терминалом.
 
-**[Оставить отзыв или предложить улучшение](https://github.com/elkin-oskol/-_-/issues)**: возраст ребёнка, удобство управления и задание, вызвавшее трудности. Без имён, фотографий и других личных данных детей.
+Android **8.0+**. APK имеет отладочную подпись. Совместимость обновления зависит от ключа подписи. Прогресс хранится на устройстве; удаление приложения или очистка данных удаляет его. [Подробнее об установке и сохранениях](https://github.com/elkin-oskol/-_-#играть-и-установить).
 
-Идея разработки и инициатор проекта — **Ёлкин/О́скол**. Условия использования материалов указаны в репозитории игры.
+## Сейчас в работе
+
+- Собрать отзывы об управлении и сложности заданий.
+- Проверить игру на разных Android-устройствах.
+- Улучшить подсказки по результатам реальных отзывов.
+
+[План развития](https://github.com/elkin-oskol/-_-/blob/main/GROWTH.md) · [Изменения](https://github.com/elkin-oskol/-_-/blob/main/docs/releases/3.0.1.md) · [Исходный код](https://github.com/elkin-oskol/-_-)
+
+## Статистика проекта
+
+[![Звёзды](https://img.shields.io/github/stars/elkin-oskol/-_-?style=flat-square&label=Stars)](https://github.com/elkin-oskol/-_-/stargazers)
+[![Скачивания APK и файлов релизов](https://img.shields.io/github/downloads/elkin-oskol/-_-/total?style=flat-square&label=Downloads)](https://github.com/elkin-oskol/-_-/releases)
+
+Счётчик Downloads включает все файлы релизов, в том числе контрольные суммы. Это не число игроков или установок. [Показатели с датой проверки](https://github.com/elkin-oskol/-_-/blob/main/GROWTH.md#статистика).
+
+## Обратная связь
+
+[Ошибка](https://github.com/elkin-oskol/-_-/issues/new?template=bug.yml) · [Предложение](https://github.com/elkin-oskol/-_-/issues/new?template=idea.yml) · [Отзыв](https://github.com/elkin-oskol/-_-/issues/new?template=feedback.yml)
+
+В отзывах не публикуйте имена, фотографии, контакты и другие личные данные детей.
+
+Идея разработки и инициатор — **Ёлкин/О́скол**. Условия использования материалов указаны в [репозитории игры](https://github.com/elkin-oskol/-_-/blob/main/LICENSE).
