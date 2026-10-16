@@ -1,52 +1,56 @@
 <div align="center">
 
-![Ёлкин/О́скол — игры, которые учат](assets/brand-banner.svg)
+# Ёлкин/О́скол
 
-# Привет, я Роман — Ёлкин/О́скол 👋
+**Android-приложения · Игры · Полезные цифровые инструменты**
 
-Создаю полезные цифровые проекты и обучающие игры с помощью ChatGPT/Codex.
+*Independent Android, game & digital projects*
 
-**[▶ Играть](https://elkin-oskol.github.io/-_-/) · [📱 Скачать Android](https://github.com/elkin-oskol/-_-/releases/latest) · [💬 Оставить отзыв](https://github.com/elkin-oskol/-_-/issues/new/choose)**
+От идеи и прототипа — к работающему продукту.  
+Практичность, удобство и постоянное улучшение.
 
 </div>
 
-## Приключения робокота Соника
+---
 
-Обучающая 2D-игра для детей **6–9 лет**. Пять миров и 15 заданий: файлы, команды, текст, цифровая безопасность и рисование. Без регистрации и рекламы. После первой загрузки работает офлайн; APK содержит игру внутри.
+## О проектах / About
 
-<p>
-  <img src="https://raw.githubusercontent.com/elkin-oskol/-_-/main/media/world-map.jpg" width="240" alt="Карта пяти миров">
-  <img src="https://raw.githubusercontent.com/elkin-oskol/-_-/main/media/platform-level.jpg" width="240" alt="Платформенный уровень и управление">
-  <img src="https://raw.githubusercontent.com/elkin-oskol/-_-/main/media/learning-task.jpg" width="240" alt="Задание на составление маршрута">
-</p>
+Разрабатываю небольшие приложения и игры, уделяя внимание понятному интерфейсу, работе на Android и полезности в повседневных задачах. Использую инструменты ИИ для разработки и проверки, а результат тестирую и дорабатываю.
 
-Скриншоты и [короткое видео](https://elkin-oskol.github.io/-_-/media/game-demo.mp4) обновлены для **3.0.1**. Это браузерная запись с мобильными размерами экрана, не съёмка установленного APK.
+I build practical Android apps, games and digital tools, with a focus on usability, offline-first experiences where appropriate, and iterative testing.
 
-## Для родителей
+## Проекты / Projects
 
-Начните с одного мира и помогайте ребёнку читать условия. Можно ошибаться и пользоваться подсказками. На телефоне движение — слева, прыжок и задание — справа; задание открывается рядом с терминалом.
+### Android-приложения и игры
 
-Android **8.0+**. APK имеет отладочную подпись. Совместимость обновления зависит от ключа подписи. Прогресс хранится на устройстве; удаление приложения или очистка данных удаляет его. [Подробнее об установке и сохранениях](https://github.com/elkin-oskol/-_-#играть-и-установить).
+Здесь будут появляться **публичные проекты** с проверенными ссылками на исходный код, демонстрации и релизы. Закрытые репозитории и внутренние материалы не раскрываются.
 
-## Сейчас в работе
+> Сейчас портфолио обновляется. Ссылки на ранее опубликованные проекты будут добавлены после проверки их доступности и актуальности.
 
-- Собрать отзывы об управлении и сложности заданий.
-- Проверить игру на разных Android-устройствах.
-- Улучшить подсказки по результатам реальных отзывов.
+## Направления / Focus
 
-[План развития](https://github.com/elkin-oskol/-_-/blob/main/GROWTH.md) · [Изменения](https://github.com/elkin-oskol/-_-/blob/main/docs/releases/3.0.1.md) · [Исходный код](https://github.com/elkin-oskol/-_-)
+![Android](https://img.shields.io/badge/Android-apps-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Games](https://img.shields.io/badge/Games-2D-7C6CE4?style=flat-square)
+![Offline](https://img.shields.io/badge/Offline--first-tools-147D91?style=flat-square)
+![AI-assisted](https://img.shields.io/badge/AI--assisted-development-425466?style=flat-square)
 
-## Статистика проекта
+- **Android:** интерфейсы, тестирование на телефоне, подготовка APK.
+- **Игры:** небольшие игровые механики и прототипы.
+- **Полезные инструменты:** понятные справочники и приложения для повседневных задач.
+- **Разработка с ИИ:** использование ChatGPT/Codex в рабочем процессе с проверкой результата.
 
-[![Звёзды](https://img.shields.io/github/stars/elkin-oskol/-_-?style=flat-square&label=Stars)](https://github.com/elkin-oskol/-_-/stargazers)
-[![Скачивания APK и файлов релизов](https://img.shields.io/github/downloads/elkin-oskol/-_-/total?style=flat-square&label=Downloads)](https://github.com/elkin-oskol/-_-/releases)
+## Сейчас в работе / In progress
 
-Счётчик Downloads включает все файлы релизов, в том числе контрольные суммы. Это не число игроков или установок. [Показатели с датой проверки](https://github.com/elkin-oskol/-_-/blob/main/GROWTH.md#статистика).
+Улучшение качества интерфейсов, удобства мобильного управления, стабильности и документации проектов. Статусы и доступность конкретных релизов следует проверять в соответствующих публичных репозиториях.
 
-## Обратная связь
+## Связаться / Contact
 
-[Ошибка](https://github.com/elkin-oskol/-_-/issues/new?template=bug.yml) · [Предложение](https://github.com/elkin-oskol/-_-/issues/new?template=idea.yml) · [Отзыв](https://github.com/elkin-oskol/-_-/issues/new?template=feedback.yml)
+**[Написать по электронной почте](mailto:elkin519128@internet.ru?subject=%D0%92%D0%BE%D0%BF%D1%80%D0%BE%D1%81%20%D0%BF%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0%D0%BC%20%D0%81%D0%BB%D0%BA%D0%B8%D0%BD%2F%D0%9E%CC%81%D1%81%D0%BA%D0%BE%D0%BB)** — вопросы, предложения, отзывы и сотрудничество.
 
-В отзывах не публикуйте имена, фотографии, контакты и другие личные данные детей.
+Пожалуйста, не отправляйте пароли, конфиденциальные документы и другие чувствительные данные.
 
-Идея разработки и инициатор — **Ёлкин/О́скол**. Условия использования материалов указаны в [репозитории игры](https://github.com/elkin-oskol/-_-/blob/main/LICENSE).
+---
+
+<div align="center">
+  <sub>Ёлкин/О́скол · Независимые цифровые проекты / Independent digital projects</sub>
+</div>
